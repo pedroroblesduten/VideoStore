@@ -5,6 +5,7 @@
 * Roteiro Prático sobre refactoring
 * 
 * Classes iniciais do sistema de videolocadora
+* commit 1
 *
 */
 
